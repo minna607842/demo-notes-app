@@ -1,1 +1,1 @@
-https://pu7qlqec20.execute-api.ap-northeast-1.amazonaws.com
+curl -X DELETE https://p57ypgdxgf.execute-api.ap-northeast-1.amazonaws.com/notes/2e535fd0-0abf-11ec-a8dd-dbd4d646e639
